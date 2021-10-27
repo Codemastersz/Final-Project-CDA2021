@@ -1,7 +1,7 @@
 package main
 
 import (
-	"myapp/lib"
+	
 	"github.com/mitroadmaps/gomapinfer/common"
 	"github.com/mitroadmaps/gomapinfer/googlemaps"
 
