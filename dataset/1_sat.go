@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Codemastersz/Final-Project-CDA2021/tree/main/dataset/lib"
+	"./lib"
 	"github.com/mitroadmaps/gomapinfer/common"
 	"github.com/mitroadmaps/gomapinfer/googlemaps"
 
